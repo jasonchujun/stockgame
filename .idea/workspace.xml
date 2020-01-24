@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95951b34-f422-4b56-82b1-5cb28f02f608" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WBJxSiGDIITlyOK8sMX6SdFWc5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework" />
+      <recent name="$PROJECT_DIR$/stockmodel" />
+      <recent name="$PROJECT_DIR$/stockview" />
+      <recent name="$PROJECT_DIR$/stockclient" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/a" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ClientView">
+    <configuration name="ClientView" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stocktrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stockview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stockview/ClientView.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ServiceMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stocktrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stockcontro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stockcontro/ServersMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StockTrade" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stocktrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stockview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stockview/StockView.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stocktrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stocktrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ClientView" />
+        <item itemvalue="Python.ServiceMain" />
+        <item itemvalue="Python.b" />
+        <item itemvalue="Python.StockTrade" />
+        <item itemvalue="Python.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95951b34-f422-4b56-82b1-5cb28f02f608" name="Default Changelist" comment="" />
+      <created>1578617300750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578617300750</updated>
+      <workItem from="1578617301888" duration="9096000" />
+      <workItem from="1578634932051" duration="17323000" />
+      <workItem from="1578663778690" duration="9542000" />
+      <workItem from="1579004233158" duration="108000" />
+      <workItem from="1579004342058" duration="4710000" />
+      <workItem from="1579049526876" duration="9463000" />
+      <workItem from="1579067840805" duration="22728000" />
+      <workItem from="1579136479908" duration="1269000" />
+      <workItem from="1579170310865" duration="10721000" />
+      <workItem from="1579229089924" duration="6460000" />
+      <workItem from="1579241153548" duration="2407000" />
+      <workItem from="1579243579342" duration="6103000" />
+      <workItem from="1579250046158" duration="5215000" />
+      <workItem from="1579256969882" duration="7180000" />
+      <workItem from="1579266592403" duration="1430000" />
+      <workItem from="1579268066650" duration="43000" />
+      <workItem from="1579314716847" duration="80000" />
+      <workItem from="1579331501633" duration="269000" />
+      <workItem from="1579341348102" duration="1683000" />
+      <workItem from="1579345665172" duration="7955000" />
+      <workItem from="1579356347412" duration="44000" />
+      <workItem from="1579356395080" duration="10026000" />
+      <workItem from="1579408639708" duration="4682000" />
+      <workItem from="1579416332081" duration="1605000" />
+      <workItem from="1579439767043" duration="2286000" />
+      <workItem from="1579521785388" duration="1000000" />
+      <workItem from="1579523184287" duration="3969000" />
+      <workItem from="1579571481761" duration="22000" />
+      <workItem from="1579571504784" duration="9829000" />
+      <workItem from="1579620159300" duration="2844000" />
+      <workItem from="1579664779978" duration="17278000" />
+      <workItem from="1579709682313" duration="1890000" />
+      <workItem from="1579749294915" duration="14698000" />
+      <workItem from="1579855000471" duration="2106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="87" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579620155429">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="397" y="87" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579620155429" />
+    <state width="1253" height="174" key="GridCell.Tab.0.bottom" timestamp="1579859156234">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="174" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579859156234" />
+    <state width="687" height="120" key="GridCell.Tab.0.bottom/67.27.733.573@67.27.733.573" timestamp="1578666546265" />
+    <state width="1253" height="174" key="GridCell.Tab.0.center" timestamp="1579859156233">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="174" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579859156233" />
+    <state width="687" height="120" key="GridCell.Tab.0.center/67.27.733.573@67.27.733.573" timestamp="1578666546264" />
+    <state width="1253" height="174" key="GridCell.Tab.0.left" timestamp="1579859156232">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="174" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579859156232" />
+    <state width="687" height="120" key="GridCell.Tab.0.left/67.27.733.573@67.27.733.573" timestamp="1578666546263" />
+    <state width="1253" height="174" key="GridCell.Tab.0.right" timestamp="1579859156234">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="174" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579859156234" />
+    <state width="687" height="120" key="GridCell.Tab.0.right/67.27.733.573@67.27.733.573" timestamp="1578666546264" />
+    <state width="1253" height="279" key="GridCell.Tab.1.bottom" timestamp="1579751663724">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="279" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579751663724" />
+    <state width="1253" height="279" key="GridCell.Tab.1.center" timestamp="1579751663721">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="279" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1579751663721" />
+    <state width="1253" height="279" key="GridCell.Tab.1.left" timestamp="1579751663716">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="279" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1579751663716" />
+    <state width="1253" height="279" key="GridCell.Tab.1.right" timestamp="1579751663723">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="279" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1579751663723" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1578665545056">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578665545056" />
+    <state x="106" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1579854999103">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="106" y="173" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1579854999103" />
+    <state x="89" y="140" key="com.intellij.ide.util.TipDialog/67.27.733.573@67.27.733.573" timestamp="1578801238259" />
+    <state x="294" y="27" width="834" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578669199890">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="294" y="27" width="834" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1578669199890" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stocktrade$UserLoginRegister.coverage" NAME="UserLoginRegister Coverage Results" MODIFIED="1579265110808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stockview" />
+    <SUITE FILE_PATH="coverage/stocktrade$dictservice.coverage" NAME="dictservice Coverage Results" MODIFIED="1579254592018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dict" />
+    <SUITE FILE_PATH="coverage/stocktrade$dictclient.coverage" NAME="dictclient Coverage Results" MODIFIED="1579254594782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dict" />
+    <SUITE FILE_PATH="coverage/stocktrade$a.coverage" NAME="a Coverage Results" MODIFIED="1579621367927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stocktrade$MysqlModel.coverage" NAME="MysqlModel Coverage Results" MODIFIED="1579448414213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stockmodel" />
+    <SUITE FILE_PATH="coverage/stocktrade$ServiceMain.coverage" NAME="ServiceMain Coverage Results" MODIFIED="1579858883547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stockcontro" />
+    <SUITE FILE_PATH="coverage/stocktrade$ClientView.coverage" NAME="ClientView Coverage Results" MODIFIED="1579858886518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stockview" />
+    <SUITE FILE_PATH="coverage/stocktrade$b.coverage" NAME="b Coverage Results" MODIFIED="1579751021282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stocktrade$stockview.coverage" NAME="stockview Coverage Results" MODIFIED="1579175968552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stocktrade$insert_data.coverage" NAME="insert_data Coverage Results" MODIFIED="1578647284768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a" />
+    <SUITE FILE_PATH="coverage/stocktrade$StockContro.coverage" NAME="StockContro Coverage Results" MODIFIED="1579532516423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stockcontro" />
+    <SUITE FILE_PATH="coverage/stocktrade$StockTrade.coverage" NAME="StockTrade Coverage Results" MODIFIED="1579709764801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stockview" />
+    <SUITE FILE_PATH="coverage/stocktrade$UserContro.coverage" NAME="UserContro Coverage Results" MODIFIED="1579230615448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stockcontro" />
+  </component>
+</project>
